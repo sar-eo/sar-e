@@ -269,7 +269,7 @@ h2 {
     margin-left: 10px;
     margin-right: 10px;
 	height: auto;
-	background: #3085a3;
+	background: #F02929;
 	text-align: center;
 	cursor: pointer;
 }
@@ -335,7 +335,7 @@ h2 {
 }
 
 .gallery-section {
-  background-color: #99ccff;
+  background-color: #F02929;
 }
 
 .gallery-section .title {
@@ -427,7 +427,7 @@ figure.effect-julia:hover p {
 
 .gallery-slider .slick-dots li.slick-active, 
 .gallery-slider .slick-dots li:hover {
-    background-color: #3CCDFF;
+    background-color: #ffffff;
 }
 
 .gallery-slider .slick-dots li {
